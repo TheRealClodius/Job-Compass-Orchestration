@@ -1,4 +1,4 @@
-from main import hello
+from ..main import hello
 
 def test_hello():
-    assert hello() == "Hello, Andrei!"
+    assert hello() == "Hello, Job Compass Orchestration!"
